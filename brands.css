@@ -34,7 +34,7 @@ button {
   line-height: 48px;
   letter-spacing: 0.1px;
   white-space: wrap;
-  border-radius: 2px;
+  border-radius: 2px!important;
   cursor: pointer;
  }
 button:hover,
